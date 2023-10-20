@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: fwkerhuejrjreg
+Version: 0.0.1
+Home-page: https://github.com/hikariatama/acunetix
+Download-URL: https://github.com/hikariatama/acunetix/releases
+Author: Daniil Gazizullin
+Author-email: me@hikariatama.ru
+Keywords: acunetix vulnerability scanner pentest security infosec
+Requires-Python: >=3.6
+
+Acunetix Web Vulnerability Scanner API wrapper

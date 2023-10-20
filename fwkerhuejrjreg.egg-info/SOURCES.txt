@@ -1,0 +1,7 @@
+setup.py
+fwkerhuejrjreg.egg-info/PKG-INFO
+fwkerhuejrjreg.egg-info/SOURCES.txt
+fwkerhuejrjreg.egg-info/dependency_links.txt
+fwkerhuejrjreg.egg-info/top_level.txt
+hack/__init__.py
+hack/__main__.py
